@@ -3477,10 +3477,12 @@ input, select, textarea {
 
 			#intro {
 				padding: 3rem 2rem 1rem 2rem ;
-				min-height: 80vh;
+				min-height: 40vh;
+                margin-top: 0 !important;
 			}
 
 				#intro h1 {
+				    margin-top: 0 !important;
 					font-size: 3.25rem;
 					line-height: 1.1;
 					margin-bottom: 1rem;
